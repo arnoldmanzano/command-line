@@ -1,0 +1,11 @@
+wc
+- command for line / word / character count
+
+wc file1
+- outputs line / word / character count for file1
+
+using with pipe
+ls | wc
+
+useful switch
+-l  = outputs line count only
