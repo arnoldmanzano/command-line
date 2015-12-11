@@ -1,0 +1,8 @@
+grep
+- command to search expression from file or stream
+
+grep expr1 file1
+- prints out lines from file1 that includes the expression "expr1"
+
+useful uses with piping
+ls -ltr | grep "*.txt"
