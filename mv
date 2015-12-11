@@ -1,0 +1,9 @@
+mv
+- command to move or rename files
+
+mv file1 file2
+- rename file1 to file2
+
+mv file1 dir1
+- move file1 to directory dir1
+- if directory does not exist, file1 will be rename to dir1
